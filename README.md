@@ -1,1 +1,2 @@
 # HiperDino
+Este proyecto es un simulador de supermercado que permite crear y gestionar clientes, productos y cajeros. El programa está desarrollado en Java y utiliza clases para representar cada uno de los elementos del supermercado.
